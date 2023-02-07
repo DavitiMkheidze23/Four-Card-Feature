@@ -1,0 +1,131 @@
+@media only screen and (min-width: 375px) {
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.Main-div {
+    background-color: #FAFAFA;
+    width: 1440px;
+    height: 1000px;
+}
+.h1-1 {
+    width: 460px;
+    height: 54px;
+    font-size: 36px;
+    line-height: 54px;
+    letter-spacing: 0.25px;
+    color: #4D4F62;
+    font-family: 'Poppins';
+}
+.h1-2 {
+    width: 460px;
+    height: 54px;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 54px;
+    letter-spacing: 0.25px;
+    color: #4D4F62;
+    font-family: 'Poppins'
+}
+.First-div {
+    display: flex;
+    flex-direction: column;
+    margin-left: 500px;
+    margin-top: 80px;
+}
+.First-p {
+    width: 445px;
+    height: 50px;
+    font-size: 15px;
+    line-height: 25px;
+    letter-spacing: 0.1px;
+    color: #4D4F62;
+    font-family: 'Poppins';
+    text-align: center;
+    margin-top: 13px;
+    margin-left: -50px;
+}
+.Second-div {
+    width: 1110px;
+    height: 530px;
+    display: flex;
+    gap: 30px;
+    margin-top: 204px;
+    margin-left: 120px;
+}
+.Supervisor-div {
+    width: 318px;
+    height: 218px;
+    border-radius: 8px;
+    background-color: white;
+    padding: 32px;
+    border-top: 4px solid #44D3D2;
+    box-shadow: 0px 10px 10px 0 rgba(131, 166, 210, 0.5);
+}
+.Supervisor-img {
+    margin-top: 40px;
+    margin-left: 254px;
+}
+.Team-builder-img {
+    margin-top: 40px;
+    margin-left: 254px;
+}
+.Icon-karma-img {
+    margin-top: 40px;
+    margin-left: 254px;
+}
+.Calculator-img {
+    margin-top: 40px;
+    margin-left: 254px;
+}
+h3 {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    font-family: 'Poppins';
+    color: #4D4F62;
+}
+.Second-p {
+    width: 286px;
+    height: 46px;
+    font-size: 13px;
+    line-height: 23px;
+    font-weight: 400;
+    font-family: 'Poppins';
+    color: #4D4F62;
+}
+.Team-builder-div {
+    width: 318px;
+    height: 218px;
+    padding: 32px;
+    border-radius: 8px;
+    background-color: white;
+    border-top: 4px solid #EA5454;
+    box-shadow: 0px 10px 10px 0 rgba(131, 166, 210, 0.5);
+}
+.Karma-div {
+    width: 318px;
+    height: 218px;
+    padding: 32px;
+    border-radius: 8px;
+    background-color: white;
+    margin-top: 30px;
+    border-top: 4px solid #FCAE4A;
+    box-shadow: 0px 10px 10px 0 rgba(131, 166, 210, 0.5);
+}
+.Calculator-div {
+    width: 318px;
+    height: 218px;
+    padding: 32px;
+    border-radius: 8px;
+    background-color: white;
+    border-top: 4px solid #549EF2;
+    box-shadow: 0px 10px 10px 0 rgba(131, 166, 210, 0.5);
+}
+.Middle-div {
+    margin-top: -135px;
+}
+}
